@@ -1,0 +1,122 @@
+.h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("../contactimg/imgbak.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    color: white;
+}
+nav{
+    background-color: #000;
+    color: #fff;
+    padding: 30px;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+}
+nav a:hover{
+    background-color: #666;
+    padding: 30px;
+}
+main{
+    padding: 10px;
+    
+}
+footer{
+    background-color: #000;
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+}
+.profile-box{
+    width: 400px;
+    height: 600px;
+    border: 1px solid #ddd;
+    padding: 50px;
+    text-align: center;
+    margin: 50px;
+
+}
+.profile-box2{
+    width: 400px;
+    height: 600px;
+    border: 1px solid #ddd;
+    padding: 50px;
+    text-align: center;
+    margin: 50px;
+   
+}
+.profile-box3{
+    width: 500px;
+    height: 100px;
+    border: 1px solid #ddd;
+    padding: 100px;
+    text-align: right 10px;
+    font-size: 20px;
+    margin: 50px;
+}
+.s1{
+    display: flex;
+}
+.h2{
+    text-align: center;
+    font-size: 40px;
+}
+.p1{
+    font-size: 30px;
+    text-align: center;
+}
+.profile
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    width: 40%;
+    color: #f7f6f6;
+    border: 1px solid #ddd;
+    text-align: center;
+    
+    padding: 20px;
+    border-radius: 10px;
+}
+.registration-form h1{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+}
+.registration-form p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+.registration-form input{
+    font-style: 16px;
+    padding: 15px 10px;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    outline: none;
+}
+.registration-form button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border: 0;
+    border-radius: 6px;
+    background-color: aqua;
+}
+.img{
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+    margin: 0 auto 10px;
+}

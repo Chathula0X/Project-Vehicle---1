@@ -1,0 +1,54 @@
+.h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("../contactimg/imgbak.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    color: white;
+}
+nav{
+    background-color: #000;
+    color: #fff;
+    padding: 30px;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+}
+nav a:hover{
+    background-color: #666;
+    padding: 30px;
+}
+.abimg{
+    width: 1340px;
+   
+}
+.p1{
+    font-size: 20px;
+}
+.p2{
+    font-size: 20px;
+}
+.p3{
+    font-size: 20px;
+}
+.p4{
+    font-size: 20px;
+}
+main{
+    padding: 10px;
+    
+}
+footer{
+    background-color: #000;
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+}
